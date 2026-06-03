@@ -77,10 +77,9 @@ Tokenization
       │
       ▼
  Sentiment Output
-
-![Architecture](./Flow of project/architecture.png)
-![Architecture](Architecture flow.png)
 ```
+![Architecture](Architechture flow.png)
+
 
 ### Architecture Summary
 
@@ -168,6 +167,8 @@ imdb-sentiment-analysis/
 ├── images/output1.jpg
 ├── README.md
 ```
+![Complete Overview of Project](CompleteFlowofProject.png)
+
 ---
 ## 🔮 Future Improvements
 
