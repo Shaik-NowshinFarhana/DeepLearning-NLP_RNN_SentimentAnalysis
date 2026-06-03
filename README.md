@@ -78,7 +78,9 @@ Tokenization
       ▼
  Sentiment Output
 
-![Project Workflow](Flow of project/Architechture flow.png)
+<p align="center">
+  <img src="Flow of project/Architechture flow.png" width="1000">
+</p>
 ```
 
 ### Architecture Summary
