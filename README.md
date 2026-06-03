@@ -87,9 +87,8 @@ model = Sequential([
     Dense(1, activation='sigmoid')
 ])
 ```
+-
 ![](ArchitectureFlow.png)
-
-
 ---
 
 ## 📊 Training Details
