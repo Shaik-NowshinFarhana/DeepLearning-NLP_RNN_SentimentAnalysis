@@ -78,8 +78,7 @@ Tokenization
       ▼
  Sentiment Output
 ```
-!(Architechture flow.png)
-
+Architechture flow.png
 ### Architecture Summary
 
 ```python
@@ -89,7 +88,7 @@ model = Sequential([
     Dense(1, activation='sigmoid')
 ])
 ```
-![Architecture](Architechture flow.png)
+![]([(https://github.com/Shaik-NowshinFarhana/DeepLearning-NLP_RNN_SentimentAnalysis/blob/239d9e22c6f847adb86b27f3039ac22809ba4de2/Architechture%20flow.png)])
 
 ---
 
@@ -167,7 +166,6 @@ imdb-sentiment-analysis/
 ├── images/output1.jpg
 ├── README.md
 ```
-![Complete Overview of Project](CompleteFlowofProject.png)
 
 ---
 ## 🔮 Future Improvements
