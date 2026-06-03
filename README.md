@@ -58,6 +58,9 @@ Source: IMDb Dataset available through TensorFlow/Keras datasets.
 Input Review
       │
       ▼
+Tokenization
+      │
+      ▼
  Padding
       │
       ▼
@@ -74,6 +77,8 @@ Input Review
       │
       ▼
  Sentiment Output
+
+![Project Workflow](Flow of project/Architechture flow.png)
 ```
 
 ### Architecture Summary
