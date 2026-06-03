@@ -78,8 +78,7 @@ Tokenization
       ▼
  Sentiment Output
 ```
-![Architecture](Architechture flow.png)
-
+!(Architechture flow.png)
 
 ### Architecture Summary
 
@@ -90,6 +89,7 @@ model = Sequential([
     Dense(1, activation='sigmoid')
 ])
 ```
+![Architecture](Architechture flow.png)
 
 ---
 
