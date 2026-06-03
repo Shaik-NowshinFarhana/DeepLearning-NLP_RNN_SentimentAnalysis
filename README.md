@@ -78,9 +78,8 @@ Tokenization
       ▼
  Sentiment Output
 
-<p align="center">
-  <img src="Flow of project/Architechture flow.png" width="1000">
-</p>
+![Architecture](./Flow of project/architecture.png)
+![Architecture](Architecture flow.png)
 ```
 
 ### Architecture Summary
